@@ -1,8 +1,9 @@
 # 简述
 一个没有引入任何外部库的单文件版的静态文件服务器.
-可以托管网页
-![](
 
+可以托管网页,下载文件.
+![](
+https://github.com/LunaDeer/jj_file_server/blob/main/example/img.png
 )
 # 如何使用
 ## 1. 直接运行
